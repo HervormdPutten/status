@@ -6,6 +6,10 @@ repo: status # Your GitHub repository name
 sites:
   - name: HervormdPutten
     url: https://www.hervormdputten.nl
+  - name: Toezeggingen 
+    url: https://toezeggingen.hervormdputten.nl
+  - name: Check 
+    url: https://check.hervormdputten.nl
 
 status-website:
   baseUrl: /status # where "repo" is your repository name
