@@ -14,8 +14,6 @@ status-website:
   introTitle: "Status page of websites of the Hervomde Gemeente Putten"
   introMessage: Github and Github actions are used to make this available, [see Github](https://github.com/HervormdPutten/status)
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
