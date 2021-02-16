@@ -10,16 +10,22 @@ sites:
     url: https://toezeggingen.hervormdputten.nl
   - name: Check 
     url: https://check.hervormdputten.nl
+    icon: https://check.hervormdputten.nl/static/favicon.ico
 
 status-website:
-  baseUrl: /status # where "repo" is your repository name
+  baseUrl: /status
   name: Status
   logoUrl: https://raw.githubusercontent.com/HervormdPutten/status/master/assets/Hervormd_Putten_logo_RGB.png
+  favicon: https://check.hervormdputten.nl/static/favicon.ico
   introTitle: "Status page of websites of the Hervomde Gemeente Putten"
   introMessage: Github and Github actions are used to make this available, [see Github](https://github.com/HervormdPutten/status)
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - cbos
+  
+commitMessages:
+  commitAuthorName: "HGP Bot"
+  commitAuthorEmail: "hgpbot@hervormdputten.nl"
