@@ -40,19 +40,19 @@
     "url": "https://check.hervormdputten.nl",
     "icon": "https://check.hervormdputten.nl/static/favicon.ico",
     "slug": "check",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
-    "time": 886,
-    "timeDay": 1349,
-    "timeWeek": 886,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
+    "time": 848,
+    "timeDay": 1165,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {
-      "2021-02-17": 24
+      "2021-02-17": 30
     }
   }
 ]
