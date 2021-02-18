@@ -11,6 +11,8 @@ sites:
   - name: Check 
     url: https://check.hervormdputten.nl
     icon: https://check.hervormdputten.nl/static/favicon.ico
+    expectedStatusCodes:
+      - 401
 
 status-website:
   baseUrl: /status
