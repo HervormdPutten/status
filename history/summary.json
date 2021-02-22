@@ -4,9 +4,9 @@
     "url": "https://www.hervormdputten.nl",
     "icon": "https://favicons.githubusercontent.com/www.hervormdputten.nl",
     "slug": "hervormd-putten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 777,
     "timeMonth": 777,
     "timeYear": 777,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-22": 0
+    }
   },
   {
     "name": "Toezeggingen",
@@ -41,11 +43,11 @@
     "icon": "https://check.hervormdputten.nl/static/favicon.ico",
     "slug": "check",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
     "time": 721,
     "timeDay": 423,
     "timeWeek": 721,
