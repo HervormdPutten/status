@@ -8,8 +8,10 @@ sites:
     url: https://www.hervormdputten.nl
   - name: Toezeggingen 
     url: https://toezeggingen.hervormdputten.nl
+    icon: https://toezeggingen.hervormdputten.nl/favicon.ico
   - name: IT Help 
     url: https://ithelp.hervormdputten.nl
+    icon: https://ithelp.hervormdputten.nl/favicons/favicon.ico
   - name: Check 
     url: https://check.hervormdputten.nl
     icon: https://toezeggingen.hervormdputten.nl/favicon.ico
