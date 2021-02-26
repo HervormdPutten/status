@@ -8,9 +8,11 @@ sites:
     url: https://www.hervormdputten.nl
   - name: Toezeggingen 
     url: https://toezeggingen.hervormdputten.nl
+  - name: IT Help 
+    url: https://ithelp.hervormdputten.nl
   - name: Check 
     url: https://check.hervormdputten.nl
-    icon: https://check.hervormdputten.nl/static/favicon.ico
+    icon: https://toezeggingen.hervormdputten.nl/favicon.ico
     expectedStatusCodes:
       - 401
 
@@ -18,7 +20,7 @@ status-website:
   baseUrl: /status
   name: Status
   logoUrl: https://raw.githubusercontent.com/HervormdPutten/status/master/assets/Hervormd_Putten_logo_RGB.png
-  favicon: https://check.hervormdputten.nl/static/favicon.ico
+  favicon: https://toezeggingen.hervormdputten.nl/favicon.ico
   introTitle: "Status page of websites of the Hervomde Gemeente Putten"
   introMessage: Github and Github actions are used to make this available, [see Github](https://github.com/HervormdPutten/status)
   navbar:
