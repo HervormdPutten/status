@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 685,
-    "timeDay": 626,
-    "timeWeek": 625,
+    "time": 686,
+    "timeDay": 847,
+    "timeWeek": 645,
     "timeMonth": 692,
     "timeYear": 683,
     "dailyMinutesDown": {
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.25%",
-    "time": 654,
-    "timeDay": 596,
-    "timeWeek": 630,
-    "timeMonth": 680,
-    "timeYear": 654,
+    "time": 655,
+    "timeDay": 851,
+    "timeWeek": 661,
+    "timeMonth": 675,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2022-02-09": 20,
       "2021-12-13": 63,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 232,
-    "timeDay": 195,
-    "timeWeek": 213,
-    "timeMonth": 221,
-    "timeYear": 232,
+    "time": 233,
+    "timeDay": 394,
+    "timeWeek": 236,
+    "timeMonth": 225,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2021-06-08": 30
     }
@@ -75,16 +75,16 @@
     "icon": "https://toezeggingen.hervormdputten.nl/favicon.ico",
     "slug": "check",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 500,
-    "timeDay": 464,
-    "timeWeek": 454,
+    "timeDay": 629,
+    "timeWeek": 470,
     "timeMonth": 474,
-    "timeYear": 498,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2022-02-09": 20,
       "2021-12-13": 63,
@@ -92,8 +92,7 @@
       "2021-10-15": 1440,
       "2021-10-14": 1031,
       "2021-05-19": 77,
-      "2021-04-22": 222,
-      "2021-02-18": 40
+      "2021-04-22": 222
     }
   }
 ]
