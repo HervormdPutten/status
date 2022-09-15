@@ -57,9 +57,9 @@
     "url": "https://ithelp.hervormdputten.nl",
     "icon": "https://ithelp.hervormdputten.nl/favicons/favicon.ico",
     "slug": "it-help",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -68,7 +68,9 @@
     "timeWeek": 226,
     "timeMonth": 225,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Check",
